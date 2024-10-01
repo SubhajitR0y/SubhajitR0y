@@ -23,4 +23,4 @@ I'm Subhajit currently at 16, but coming December 2024, I'll be leveling up to v
 ![](https://github-readme-stats.vercel.app/api?username=SubhajitR0y&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SubhajitR0y&theme=discord_old_blurple&hide_border=true)<br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=SubhajitR0y&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SubhajitR0y&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
