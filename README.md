@@ -1,8 +1,8 @@
-# 💫 who am i?
+# 💫 who am i
 I'm Subhajit currently at 16, but coming December 2024, I'll be leveling up to version 17. Currently, I'm a high school student juggling schoolwork and passion projects, all while dodging chemistry homework.<br><br>Right now, I'm sharpening my design skills on Figma and working on React Native like it’s a game I’m determined to win. But I could use some help with backend development—because, let’s be real, it's more complicated than a car engine, and I need a hand.<br><br>Math? That’s my jam. It’s not just a subject for me; it’s my secret weapon. But chemistry... yeah, we’re not exactly besties.<br><br>Fun fact: Math isn’t just something I enjoy—it’s practically my side hustle. Numbers beware, I’m coming for you!
 
 
-## 🌐 socials
+# 🌐 socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/subhajitroy29) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajit-roy-2765b72bb/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/subhajitr0y/) 
