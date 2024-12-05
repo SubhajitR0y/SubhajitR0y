@@ -1,5 +1,9 @@
 # 💫 who am i
-I'm Subhajit currently at 16, but coming December 2024, I'll be leveling up to version 17. Currently, I'm a high school student juggling schoolwork and passion projects, all while dodging chemistry homework.<br><br>Right now, I'm sharpening my design skills on Figma and working on React Native like it’s a game I’m determined to win. But I could use some help with backend development—because, let’s be real, it's more complicated than a car engine, and I need a hand.<br><br>Math? That’s my jam. It’s not just a subject for me; it’s my secret weapon. But chemistry... yeah, we’re not exactly besties.<br><br>Fun fact: Math isn’t just something I enjoy—it’s practically my side hustle. Numbers beware, I’m coming for you!
+I’m Subhajit, a 17-year-old high school student with a strong focus on design and development. I’m currently refining my skills in Figma and advancing in React Native, all while aiming to deepen my understanding of backend development to create more robust and efficient systems.
+
+Mathematics is my strength—more than just a subject, it’s a tool I use to approach challenges logically and strategically. On the other hand, chemistry has been more of a challenge, but I view it as an opportunity to grow.
+
+I’m dedicated to balancing academic responsibilities with creative projects, constantly striving to learn, improve, and build solutions that matter.
 
 
 # 🌐 socials
