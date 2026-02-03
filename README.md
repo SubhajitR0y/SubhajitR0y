@@ -1,5 +1,5 @@
 # who am i.
-I’m Subhajit, a 17-year-old high school student with a strong focus on design and development. I’m currently refining my skills in Figma and advancing in React Native, all while aiming to deepen my understanding of backend development to create more robust and efficient systems.
+I’m Subhajit, a 18-year-old high school student with a strong focus on design and development. I’m currently refining my skills in Figma and advancing in React Native, all while aiming to deepen my understanding of backend development to create more robust and efficient systems.
 
 Mathematics is my strength—more than just a subject, it’s a tool I use to approach challenges logically and strategically. On the other hand, chemistry has been more of a challenge, but I view it as an opportunity to grow.
 
